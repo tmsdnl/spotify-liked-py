@@ -1,5 +1,7 @@
 # Spotify Liked Songs Fetcher
 
+![vibe: claude code](https://img.shields.io/badge/vibe-claude_code-FF00FF?labelColor=6A0DAD)
+
 A Python script to fetch all your liked songs from Spotify and export them to CSV format.
 
 ## Setup
